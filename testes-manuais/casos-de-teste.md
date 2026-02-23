@@ -60,4 +60,3 @@ O ID do usuário é armazenado na variável de ambiente user_id, permitindo reut
 
 - Teste executado com sucesso no Postman.
 
----
