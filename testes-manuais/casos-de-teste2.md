@@ -4,7 +4,7 @@
 
 📄 Identificação do Teste
 
-Nome: CT02 – Falha ao criar usuário
+Nome: CT-002 – Falha ao criar usuário
 
 Método: POST
 
