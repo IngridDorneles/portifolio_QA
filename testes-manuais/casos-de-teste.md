@@ -4,7 +4,7 @@
 
 📄 Identificação do Teste
 
-Nome: CT01 – Criar usuário com sucesso
+Nome: CT-001 – Criar usuário com sucesso
 
 Método: POST
 
@@ -44,7 +44,8 @@ Validar que a API cria um usuário com sucesso e retorna status 201, mensagem co
 
 **📤 Resposta Esperada:**
 
-<img width="422" height="160" alt="image" src="https://github.com/user-attachments/assets/99b9c0de-b99f-466a-a898-5ac7c5488822" />
+<img width="698" height="193" alt="image" src="https://github.com/user-attachments/assets/16e0533f-4b4c-445b-8eae-975ffd55db46" />
+
 
 
 
