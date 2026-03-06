@@ -33,7 +33,7 @@ Validar que a API retorna o login e/ou senha inválidos e retorna status 401.
 
 **✅ Validações Realizadas:**
 
-- Mensagem de erro retornada corretamente
+- Mensagem de erro retornada corretamente após informar usuário não cadastrado
 
 - Status code 401 – Unauthorized
 
@@ -47,4 +47,4 @@ Validar que a API retorna o login e/ou senha inválidos e retorna status 401.
 
 Status:
 
-✔️ Aprovado
+✔️ Concluido 
