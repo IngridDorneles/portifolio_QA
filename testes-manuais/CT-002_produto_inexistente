@@ -1,0 +1,52 @@
+# Casos de Teste
+
+📌 Teste – Validar busca de produto inexistente
+
+📄 Identificação do Teste
+
+Nome: CT-002 – Validar busca de produto inexistente
+
+Módulo: Busca
+
+Prioridade: Média
+
+Tipo de Teste: Negativo
+
+Endpoint: https://demo.opencart.com/en-gb?route=common/home
+
+---
+
+**Objetivo**
+
+Validar que nenhum resultado será encontrado.
+
+
+Passos:
+1. Acessar campo de busca
+2. Inserir nome de produto inexistente
+3. Pressionar Enter
+
+Dados de teste:
+Produto: Xyz123teste
+
+**✅ Validações Realizadas:**
+
+- Mensagem de erro retornada corretamente
+
+
+
+**📤 Resposta Esperada:**
+
+Sistema deve exibir mensagem informando que nenhum resultado foi encontrado.
+
+**📤 Resposta obtida:**
+
+Nenhum resultado foi encontrado.
+
+<img width="723" height="515" alt="image" src="https://github.com/user-attachments/assets/f76fb9e4-5999-4158-8c0f-9b16e69df2c7" />
+
+
+
+Status:
+
+Passou 
