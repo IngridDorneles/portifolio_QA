@@ -1,7 +1,7 @@
 # Testes automatizados
 Casos de teste e checklists.
 
-### 1. Testes de API com Postman
+### 1. Testes de API
 - **Descrição:** Coleção de testes, com ID e resultados esperados.  
 - **Ferramentas:** Postman, Cypress e Selenium.  
 
