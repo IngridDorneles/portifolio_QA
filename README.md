@@ -58,7 +58,7 @@ E-mail: ingrid.mendesd@outlook.com
  │    ├── CT-001_busca_produto.md
  │    ├── CT-002_produto_inexistente
  │    └── CT-003_Login_campos_vazios.md
- ├── 📁 automacao
+ ├── 📁 teste_automatizados
  │    └── CT-001_criar_user.md
  │    └── CT-002_Falha_ao_criar_usuário.md
  │    └── CT-003 – Login_com_sucesso.md
