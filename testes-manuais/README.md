@@ -1,4 +1,4 @@
-# Testes
+# Testes manuais e automatizados
 Casos de teste e checklists.
 
 ### 1. Testes de API com Postman
