@@ -38,7 +38,6 @@ Tenho experiência com testes manuais, documentação, análise de requisitos e 
 ### ⚙️ Ferramentas
 - Git & GitHub
 - Postman
-- TestRail / Zephyr (ou similar)
 - Selenium / Cypress (em estudo)
 
 ---
