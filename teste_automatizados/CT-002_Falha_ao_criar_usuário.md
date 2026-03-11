@@ -8,8 +8,7 @@ Nome: CT-002 – Falha ao criar usuário
 
 Método: POST
 
-Endpoint:
-https://serverest.dev/usuarios
+Endpoint: https://serverest.dev/usuarios
 
 ---
 
