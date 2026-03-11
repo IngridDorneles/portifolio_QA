@@ -46,7 +46,7 @@ Sistema apresentou o produto buscado.
 <img width="823" height="816" alt="image" src="https://github.com/user-attachments/assets/d3b47b23-d94a-403d-89a6-015566cc4f27" />
 
 Status:
-Passou
+✔️ Aprovado
 
 
 
