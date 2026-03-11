@@ -55,11 +55,12 @@ E-mail: ingrid.mendesd@outlook.com
 ```text
 📁 portfolio-qa
  ├── 📁 testes-manuais
- │    ├── casos-de-teste.md
- │    ├── plano-de-testes.md
- │    └── checklist.md
- ├── 📁 bugs
- │    └── relatorio-de-bugs.md
+ │    ├── CT-001_busca_produto.md
+ │    ├── CT-002_produto_inexistente
+ │    └── CT-003_Login_campos_vazios.md
  ├── 📁 automacao
- │    └── exemplos-de-testes/
+ │    └── CT-001_criar_user.md
+ │    └── CT-002_Falha_ao_criar_usuário.md
+ │    └── CT-003 – Login_com_sucesso.md
+ │    └── CT-004 _Login_inválido.md
  └── README.md
