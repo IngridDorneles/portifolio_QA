@@ -1,4 +1,4 @@
-# Testes Manuais
+# Testes
 Casos de teste e checklists.
 
 ### 1. Testes de API com Postman
