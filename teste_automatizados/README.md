@@ -1,9 +1,9 @@
 # Testes automatizados
 Casos de teste e checklists.
 
-### 1. Testes de API
+### 1. Testes de API com Postman
 - **Descrição:** Coleção de testes, com ID e resultados esperados.  
-- **Ferramentas:** Postman, Cypress e Selenium.  
+- **Ferramentas:** Postman.  
 
 | ID | Caso de Teste | Resultado Esperado |
 |----|---------------|--------------------|
@@ -11,3 +11,11 @@ Casos de teste e checklists.
 | CT-002 | Criação de usuário com falha | Sistema deve impedir cadastro e exibir mensagem informando que o email já está em uso.|
 | CT-003 | Login com sucesso | Login realizado com sucesso |
 | CT-004 | Login inválido | erro e mensagem: "Email e/ou senha inválidos" |
+
+### 2. Testes de API com Cypress
+- **Descrição:** Coleção de testes, com ID e resultados esperados.  
+- **Ferramentas:** Cypress.  
+
+| ID | Caso de Teste | Resultado Esperado |
+|----|---------------|--------------------|
+| CT-005 | Login com sucesso | Login realizado com sucesso |
