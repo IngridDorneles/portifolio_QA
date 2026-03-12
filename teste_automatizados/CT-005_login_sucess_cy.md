@@ -24,7 +24,8 @@ Validar que a API realiza o login com sucesso, mensagem correta e validação de
 
 **🧪 Script de Teste (Cypress – Tests):**
 
-<img width="492" height="364" alt="image" src="https://github.com/user-attachments/assets/9608ea4f-2d9d-4785-86d6-bc2da6c3b35b" />
+<img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/04a1497b-71e5-4ab7-a933-3424db2b8c08" />
+
 
 
 **✅ Validações Realizadas:**
@@ -36,6 +37,8 @@ Validar que a API realiza o login com sucesso, mensagem correta e validação de
 **📤 Resposta:**
 
 <img width="851" height="666" alt="image" src="https://github.com/user-attachments/assets/9e6e4e5a-af38-46e7-9d4e-47747c96adc4" />
+<img width="439" height="407" alt="image" src="https://github.com/user-attachments/assets/7ef5d6bd-a221-460f-ac12-dd3a9925cbc1" />
+
 
 
 
